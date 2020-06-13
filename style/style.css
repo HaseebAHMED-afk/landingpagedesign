@@ -1,0 +1,57 @@
+body{
+    border: 0ch;
+    text-align: center;
+}
+.navsetting{
+    padding: 0;
+}
+
+.img1{
+    width: 1536px;
+    height: 560px;
+    object-fit: cover;
+}
+.img2{
+    width: 1536px;
+    height: 560px;
+    object-fit: cover;
+}
+.img3{
+    width: 1536px;
+    height: 560px;
+    object-fit: cover;
+}
+.row{
+    min-width: 220px;
+    margin: 5ch 20ch;
+  } 
+.offer-heading{
+      margin: 3ch;
+      margin-bottom:0 ;
+  }
+.samsung-logo{
+      height: 150px;
+      width: 200px; 
+      object-fit: cover;  
+  }
+.powered{
+      display: inline-block;
+  }
+.extra-padding{
+      padding-left: 800px;
+  }
+  .brandcard{
+    display: inline;
+  }
+  .actual-price{
+      color: red;
+      text-decoration: line-through;
+  }
+  footer{
+      height: 10ch;
+      background-color: #007BFF;
+  }
+  .footer-text{
+      color: white;
+      padding: 30px 0 0 0;
+  }
